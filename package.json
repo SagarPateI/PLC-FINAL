@@ -27,7 +27,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "link-build": "/repos/PLC-FINAL/node_modules/three/build",
+    "postinstall": "npm run link-build"
   },
   "browserslist": [
     ">0.2%",
