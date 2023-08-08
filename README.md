@@ -4,16 +4,17 @@
 
 Welcome to Moon Lander v3, an exciting 3D simulation project that allows you to experience a thrilling moon landing adventure! 🌕💫
 
-## 🛠️ Installation
+## 🛠️ Getting Started + Installation
 
-If you do not have Yarn, you can find the installation instructions here: [https://yarnpkg.com/getting-started/install](https://yarnpkg.com/getting-started/install)
+### 1. [Click here to run the code in CodeSandbox.io](https://codesandbox.io/p/github/SagarPateI/PLC-FINAL/main?file=/src/App.js:1,1&workspaceId=3c600460-ab88-4e09-8663-32c5d908a14b)
 
-## 🚀 Getting Started
+### or
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Install the dependencies using `yarn install`.
-4. Run the app with `yarn start`.
+   - If you do not have Yarn, you can find the installation instructions here: [https://yarnpkg.com/getting-started/install](https://yarnpkg.com/getting-started/install)
+5. Run the app with `yarn start`.
 
 ## 🎮 Controls
 
