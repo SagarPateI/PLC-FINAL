@@ -1,7 +1,5 @@
 # 🚀 Moon Lander v3
 
-![Moon Lander Banner](link_to_banner_image)
-
 ## Overview
 
 Welcome to Moon Lander v3, an exciting 3D simulation project that allows you to experience a thrilling moon landing adventure! 🌕💫
